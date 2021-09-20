@@ -9,11 +9,8 @@ Renovate's ["config presets"](https://docs.renovatebot.com/config-presets/) are 
 ```JSON
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [ "github>JuergenRB/renovate-config" ],
-  ...
+  "extends": [ "github>JuergenRB/renovate-config" ]
 }
 ```
 
 Resolves as `https://github.com/JuergenRB/renovate-config` and filename `default.json`.
-
-## More
