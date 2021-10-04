@@ -7,12 +7,21 @@
     ":label(dependency)"
   ],
   "cake": {
-    "addLabels": ["cake", "build"]
+    "addLabels": [
+      "cake",
+      "build"
+    ]
   },
   "github-actions": {
-    "addLabels": ["github_actions", "build"]
+    "addLabels": [
+      "github_actions",
+      "build"
+    ]
   },
   "nuget": {
-    "addLabels": [".net"]
-  }
+    "addLabels": [
+      ".net"
+    ]
+  },
+  "commitMessagePrefix": "(maint)"
 }
